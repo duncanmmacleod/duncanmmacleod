@@ -1,6 +1,6 @@
 ## Hello, I'm Duncan [he/him/his]
 
-I'm a Senior Research Software Engineer @cardiffgravity, working on
+I'm a Senior Research Software Engineer [@cardiffgravity](/cardiffgravity), working on
 software development and systems admnistration, and am the
 Chair of the [LIGO Scientific Collaboration's](https://www.ligo.org)
 Computing and Software Working Group.
